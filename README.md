@@ -13,7 +13,7 @@ A sophisticated multi-agent AI system that automatically detects, analyzes, and 
 - **Streamlit UI**: User-friendly web interface
 
 ## 🏗️ Architecture
-! Screenshot from 2026-02-12 18-13-23.png
+! (Screenshot from 2026-02-12 18-13-23.png)
 ### Agent Workflow (LangGraph)
 
 ```
