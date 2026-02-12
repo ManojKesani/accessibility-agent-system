@@ -1,0 +1,10 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "searcher": "./code.py:final_state"
+  },
+  
+  "env": "./.env"
+}
